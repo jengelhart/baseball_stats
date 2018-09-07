@@ -1,0 +1,217 @@
+team,name,PA,BsR,wOBA
+Padres,Luis Urias,600,-0.2,0.295
+Padres,Francisco Mejia,600,0.3,0.29600000000000004
+Padres,Hunter Renfroe,600,-0.2,0.318
+Padres,Eric Hosmer,600,-1.3,0.33
+Padres,Wil Myers,600,1.1,0.331
+Padres,Franmil Reyes,600,0.0,0.317
+Padres,Freddy Galvis,600,0.3,0.28300000000000003
+Padres,Manuel Margot,600,0.1,0.3
+Padres,Brett Kennedy,600
+Reds,Scott Schebler,600,0.6,0.325
+Reds,Jose Peraza,600,1.2,0.306
+Reds,Joey Votto,600,-3.5,0.385
+Reds,Scooter Gennett,600,-0.5,0.32299999999999995
+Reds,Eugenio Suarez,600,-0.8,0.34700000000000003
+Reds,Mason Williams,600,0.0,0.282
+Reds,Tucker Barnhart,600,-2.0,0.306
+Reds,Phillip Ervin,600,0.9,0.305
+Reds,Anthony DeSclafani,600
+Cubs,Daniel Murphy,600,-0.3,0.348
+Cubs,Javier Baez,600,1.4,0.335
+Cubs,Anthony Rizzo,600,-1.6,0.385
+Cubs,Kris Bryant,600,2.6,0.374
+Cubs,Kyle Schwarber,600,0.7,0.34700000000000003
+Cubs,David Bote,600,0.3,0.309
+Cubs,Willson Contreras,600,-2.0,0.332
+Cubs,Jon Lester,600
+Cubs,Ian Happ,600,-0.3,0.315
+Nationals,Adam Eaton,600,1.9,0.33799999999999997
+Nationals,Trea Turner,600,3.7,0.34
+Nationals,Bryce Harper,600,1.0,0.39
+Nationals,Anthony Rendon,600,1.2,0.363
+Nationals,Ryan Zimmerman,600,-0.2,0.349
+Nationals,Juan Soto,600,0.3,0.369
+Nationals,Adrian Sanchez,600,0.1,0.26899999999999996
+Nationals,Spencer Kieboom,600,0.0,0.28600000000000003
+Nationals,Joe Ross,600
+Marlins,Rafael Ortega,600,0.1,0.299
+Marlins,Starlin Castro,600,-1.2,0.309
+Marlins,J.T. Realmuto,600,0.8,0.33
+Marlins,Brian Anderson,600,-0.1,0.318
+Marlins,Miguel Rojas,600,-1.5,0.29100000000000004
+Marlins,Lewis Brinson,600,0.3,0.29100000000000004
+Marlins,Peter O'Brien,600,0.0,0.273
+Marlins,Magneuris Sierra,600,0.2,0.25
+Marlins,Dan Straily,600
+Pirates,Starling Marte,600,2.4,0.33799999999999997
+Pirates,Kevin Kramer,600
+Pirates,Gregory Polanco,600,0.7,0.33299999999999996
+Pirates,Francisco Cervelli,600,-0.9,0.332
+Pirates,Corey Dickerson,600,-1.0,0.332
+Pirates,Josh Bell,600,-1.7,0.33899999999999997
+Pirates,Colin Moran,600,-1.2,0.313
+Pirates,Jordy Mercer,600,0.2,0.302
+Pirates,Chris Archer,600
+Indians,Francisco Lindor,600,0.1,0.363
+Indians,Jason Kipnis,600,1.3,0.321
+Indians,Jose Ramirez,600,2.3,0.374
+Indians,Edwin Encarnacion,600,-2.8,0.354
+Indians,Yonder Alonso,600,-1.4,0.331
+Indians,Brandon Guyer,600,-0.4,0.313
+Indians,Yan Gomes,600,-0.2,0.294
+Indians,Greg Allen,600,1.1,0.287
+Indians,Rajai Davis,600,3.3,0.278
+Blue Jays,Billy McKinney,600,0.1,0.317
+Blue Jays,Lourdes Gurriel Jr.,600
+Blue Jays,Justin Smoak,600,-2.6,0.341
+Blue Jays,Randal Grichuk,600,0.9,0.327
+Blue Jays,Rowdy Tellez,600,0.1,0.304
+Blue Jays,Kevin Pillar,600,1.6,0.303
+Blue Jays,Aledmys Diaz,600,-1.6,0.32299999999999995
+Blue Jays,Richard Urena,600,-0.2,0.26899999999999996
+Blue Jays,Luke Maile,600,-0.1,0.271
+Orioles,Cedric Mullins,600,0.8,0.307
+Orioles,Joey Rickard,600,0.9,0.298
+Orioles,Jonathan Villar,600,1.2,0.309
+Orioles,Trey Mancini,600,0.1,0.32799999999999996
+Orioles,Tim Beckham,600,-0.3,0.301
+Orioles,Renato Nunez,600,0.0,0.3
+Orioles,John Andreoli,600,0.5,0.28300000000000003
+Orioles,Breyvic Valera,600,-0.6,0.295
+Orioles,Austin Wynns,600,0.0,0.281
+Rays,Mallex Smith,600,2.1,0.305
+Rays,Matt Duffy,600,-1.0,0.309
+Rays,Ji-Man Choi,600,-0.4,0.322
+Rays,Tommy Pham,600,1.7,0.33299999999999996
+Rays,Joey Wendle,600,-0.2,0.289
+Rays,Kevin Kiermaier,600,2.4,0.304
+Rays,Willy Adames,600,0.3,0.294
+Rays,Jake Bauers,600,0.5,0.305
+Rays,Nick Ciuffo,600,0.4,0.25
+Astros,George Springer,600,0.5,0.35600000000000004
+Astros,Jose Altuve,600,-0.3,0.353
+Astros,Alex Bregman,600,0.3,0.369
+Astros,Carlos Correa,600,0.6,0.349
+Astros,Tyler White,600,0.0,0.33299999999999996
+Astros,Yuli Gurriel,600
+Astros,Josh Reddick,600,1.4,0.325
+Astros,Martin Maldonado,600,-0.9,0.275
+Astros,Jake Marisnick,600,2.1,0.28
+Red Sox,Mookie Betts,600,4.4,0.384
+Red Sox,Andrew Benintendi,600,0.7,0.35200000000000004
+Red Sox,J.D. Martinez,600,-2.6,0.392
+Red Sox,Xander Bogaerts,600,1.6,0.34700000000000003
+Red Sox,Mitch Moreland,600,-2.0,0.33299999999999996
+Red Sox,Ian Kinsler,600,0.2,0.325
+Red Sox,Eduardo Nunez,600,-0.8,0.318
+Red Sox,Sandy Leon,600,-1.3,0.27699999999999997
+Red Sox,Jackie Bradley Jr.,600,1.8,0.326
+Phillies,Carlos Santana,600,-0.6,0.355
+Phillies,Rhys Hoskins,600,0.9,0.358
+Phillies,Aaron Altherr,600,-0.6,0.303
+Phillies,Jose Bautista,600,-2.2,0.32799999999999996
+Phillies,Asdrubal Cabrera,600,-1.9,0.32799999999999996
+Phillies,Cesar Hernandez,600,0.4,0.318
+Phillies,Scott Kingery,600,0.9,0.287
+Phillies,Jorge Alfaro,600,-0.2,0.27899999999999997
+Phillies,Aaron Nola,600
+Mets,Brandon Nimmo,600,0.2,0.324
+Mets,Jeff McNeil,600,0.5,0.32299999999999995
+Mets,Michael Conforto,600,0.9,0.337
+Mets,Jay Bruce,600,-0.7,0.315
+Mets,Todd Frazier,600,-0.1,0.317
+Mets,Dominic Smith,600,-0.1,0.285
+Mets,Kevin Plawecki,600,-0.9,0.298
+Mets,Jose Reyes,600,1.0,0.294
+Mets,Steven Matz,600
+Cardinals,Matt Carpenter,600,0.3,0.365
+Cardinals,Yairo Munoz,600,-0.8,0.294
+Cardinals,Jose Martinez,600,-0.6,0.34299999999999997
+Cardinals,Marcell Ozuna,600,0.3,0.35600000000000004
+Cardinals,Paul DeJong,600,0.2,0.321
+Cardinals,Patrick Wisdom,600,0.5,0.28300000000000003
+Cardinals,Harrison Bader,600,1.7,0.303
+Cardinals,Kolten Wong,600,1.9,0.322
+Cardinals,Francisco Pena,600,-0.3,0.273
+Tigers,Jeimer Candelario,600,0.5,0.313
+Tigers,Niko Goodrum,600,0.6,0.295
+Tigers,Nicholas Castellanos,600,-0.8,0.33899999999999997
+Tigers,Victor Martinez,600,-5.7,0.317
+Tigers,Mikie Mahtook,600,-0.1,0.305
+Tigers,James McCann,600,-1.9,0.29
+Tigers,Ronny Rodriguez,600,-0.8,0.299
+Tigers,Dawel Lugo,600,0.4,0.287
+Tigers,Victor Reyes,600,0.2,0.28
+Royals,Whit Merrifield,600,1.8,0.319
+Royals,Adalberto Mondesi,600,2.8,0.28800000000000003
+Royals,Alex Gordon,600,0.5,0.309
+Royals,Hunter Dozier,600,-0.7,0.29100000000000004
+Royals,Jorge Bonifacio,600,0.3,0.303
+Royals,Salvador Perez,600,-2.3,0.317
+Royals,Rosell Herrera,600,-0.1,0.28800000000000003
+Royals,Alcides Escobar,600,1.5,0.272
+Royals,Cam Gallagher,600,0.1,0.289
+Twins,Joe Mauer,600,-1.7,0.32899999999999996
+Twins,Jorge Polanco,600,0.1,0.319
+Twins,Eddie Rosario,600,2.4,0.33299999999999996
+Twins,Logan Forsythe,600,-0.3,0.321
+Twins,Jake Cave,600,-0.3,0.304
+Twins,Mitch Garver,600,-0.2,0.314
+Twins,Max Kepler,600,1.1,0.331
+Twins,Robbie Grossman,600,-0.4,0.326
+Twins,Ehire Adrianza,600,-0.3,0.293
+Angels,Kole Calhoun,600,0.5,0.321
+Angels,David Fletcher,600,0.6,0.295
+Angels,Mike Trout,600,3.0,0.42700000000000005
+Angels,Justin Upton,600,1.1,0.34
+Angels,Shohei Ohtani,600,0.1,0.355
+Angels,Andrelton Simmons,600,-0.8,0.314
+Angels,Jefry Marte,600,-0.6,0.3
+Angels,Taylor Ward,600,0.0,0.305
+Angels,Jose Briceno,600,-0.6,0.261
+White Sox,Yoan Moncada,600,0.9,0.304
+White Sox,Yolmer Sanchez,600,-0.8,0.295
+White Sox,Nicky Delmonico,600
+White Sox,Avisail Garcia,600,-0.5,0.32899999999999996
+White Sox,Daniel Palka,600,-0.7,0.309
+White Sox,Matt Davidson,600,-1.4,0.302
+White Sox,Omar Narvaez,600,-1.0,0.304
+White Sox,Tim Anderson,600,1.0,0.294
+White Sox,Adam Engel,600,2.1,0.268
+Giants,Lorenzo Cain,600,1.5,0.341
+Giants,Christian Yelich,600,2.0,0.37200000000000005
+Giants,Jesus Aguilar,600,-0.7,0.33
+Giants,Ryan Braun,600,-1.8,0.34299999999999997
+Giants,Jonathan Schoop,600,-1.2,0.318
+Giants,Travis Shaw,600,-0.6,0.335
+Giants,Hernan Perez,600,1.2,0.29600000000000004
+Giants,Manny Pina,600,-1.4,0.301
+Giants,Chase Anderson,600
+Dodgers,Joc Pederson,600,0.8,0.354
+Dodgers,Justin Turner,600,-0.5,0.36700000000000005
+Dodgers,Manny Machado,600,-0.7,0.35700000000000004
+Dodgers,Max Muncy,600,-0.1,0.327
+Dodgers,Cody Bellinger,600,0.7,0.34
+Dodgers,Enrique Hernandez,600,1.1,0.316
+Dodgers,Yasmani Grandal,600,-2.6,0.332
+Dodgers,Yasiel Puig,600,-1.5,0.35200000000000004
+Dodgers,Clayton Kershaw,600
+Rockies,Charlie Blackmon,600,1.1,0.35700000000000004
+Rockies,DJ LeMahieu,600,-0.8,0.342
+Rockies,Nolan Arenado,600,-0.3,0.381
+Rockies,Trevor Story,600,0.5,0.354
+Rockies,Matt Holliday,600,-2.9,0.35200000000000004
+Rockies,Ian Desmond,600,1.2,0.336
+Rockies,Carlos Gonzalez,600,0.0,0.35100000000000003
+Rockies,Drew Butera,600,-0.4,0.29
+Rockies,Jon Gray,600
+Braves,Jon Jay,600,-0.3,0.308
+Braves,Eduardo Escobar,600,0.6,0.315
+Braves,Paul Goldschmidt,600,0.9,0.384
+Braves,David Peralta,600,0.8,0.34600000000000003
+Braves,A.J. Pollock,600,1.3,0.336
+Braves,Daniel Descalso,600,0.8,0.315
+Braves,Nick Ahmed,600,0.4,0.29100000000000004
+Braves,Alex Avila,600,-1.8,0.308
+Braves,Patrick Corbin,600
