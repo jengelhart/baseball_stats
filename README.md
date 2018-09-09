@@ -1,2 +1,2 @@
 # baseball-stats
-# baseball_stats
+# look at README.txt
